@@ -103,28 +103,33 @@
 
 ---
 
-## 🚀 精选项目 · Featured
+## 🚀 原创精选 · My Work
 
 <div align="center">
 
-<!-- 项目卡片：Socialify + 说明 -->
+**以下均为本人从零搭建 / 主导开发的项目**  
+<sub>学习用的 fork 仓库不会出现在这里；主页上方 pins 也请只钉原创</sub>
+
+<br/><br/>
+
+<!-- 项目卡片：仅原创仓库 -->
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/0401lucky/narra-image">
-        <img src="https://socialify.git.ci/0401lucky/narra-image/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="narra-image" width="100%">
+        <img src="https://socialify.git.ci/0401lucky/narra-image/image?description=1&font=Inter&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="narra-image" width="100%">
       </a>
       <br/>
-      <b>🎨 Narra Image</b><br/>
+      <b>🎨 Narra Image</b> · <code>原创</code><br/>
       <sub>高颜值 AI 绘图站 · 积分/审核/管理台 · Go Worker 出图</sub><br/>
       <code>Next.js</code> <code>Prisma</code> <code>Go</code> <code>PostgreSQL</code>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/0401lucky/anything2api">
-        <img src="https://socialify.git.ci/0401lucky/anything2api/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal&pulls=1&stargazers=1&theme=Dark" alt="anything2api" width="100%">
+        <img src="https://socialify.git.ci/0401lucky/anything2api/image?description=1&font=Inter&issues=1&language=1&name=1&owner=1&pattern=Diagonal&pulls=1&stargazers=1&theme=Dark" alt="anything2api" width="100%">
       </a>
       <br/>
-      <b>🔌 anything2api</b><br/>
+      <b>🔌 anything2api</b> · <code>原创</code><br/>
       <sub>多模型号池风格 OpenAI 兼容网关 · 指标 & 账号管理</sub><br/>
       <code>TypeScript</code> <code>Workers</code> <code>OpenAI Compatible</code>
     </td>
@@ -132,19 +137,19 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/0401lucky/new-api-realtime-monitor">
-        <img src="https://socialify.git.ci/0401lucky/new-api-realtime-monitor/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="monitor" width="100%">
+        <img src="https://socialify.git.ci/0401lucky/new-api-realtime-monitor/image?description=1&font=Inter&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="monitor" width="100%">
       </a>
       <br/>
-      <b>📡 New API Realtime Monitor</b><br/>
+      <b>📡 New API Realtime Monitor</b> · <code>原创</code><br/>
       <sub>日志 / Key / 通道 / 用量 · 一屏实时监控</sub><br/>
       <code>Go</code> <code>单页前端</code> <code>Docker</code>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/0401lucky/model-rate-calculator">
-        <img src="https://socialify.git.ci/0401lucky/model-rate-calculator/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="rate" width="100%">
+        <img src="https://socialify.git.ci/0401lucky/model-rate-calculator/image?description=1&font=Inter&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="rate" width="100%">
       </a>
       <br/>
-      <b>🧮 Model Rate Calculator</b><br/>
+      <b>🧮 Model Rate Calculator</b> · <code>原创</code><br/>
       <sub>New API 倍率计算器 · 对接 models.dev 官方价</sub><br/>
       <code>TypeScript</code> <code>Vite</code>
       · <a href="https://model-rate-calculator.vercel.app">在线试用 →</a>
@@ -153,19 +158,19 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/0401lucky/project-nav">
-        <img src="https://socialify.git.ci/0401lucky/project-nav/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="project-nav" width="100%">
+        <img src="https://socialify.git.ci/0401lucky/project-nav/image?description=1&font=Inter&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="project-nav" width="100%">
       </a>
       <br/>
-      <b>🧭 Project Nav · Aurora</b><br/>
+      <b>🧭 Project Nav · Aurora</b> · <code>原创</code><br/>
       <sub>毛玻璃导航 · Uptime 心跳 · 截图 OCR 录入</sub><br/>
       <code>Vue 3</code> <code>CF Pages</code> <code>KV</code>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/0401lucky/Narra">
-        <img src="https://socialify.git.ci/0401lucky/Narra/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark" alt="Narra" width="100%">
+        <img src="https://socialify.git.ci/0401lucky/Narra/image?description=1&font=Inter&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark" alt="Narra" width="100%">
       </a>
       <br/>
-      <b>📱 Narra</b><br/>
+      <b>📱 Narra</b> · <code>原创</code><br/>
       <sub>Android AI 对话客户端 · OpenAI / Anthropic 兼容</sub><br/>
       <code>Kotlin</code> <code>Jetpack Compose</code>
     </td>
@@ -173,9 +178,10 @@
 </table>
 
 <p>
-  <a href="https://github.com/0401lucky/distribution-site"><img src="https://img.shields.io/badge/distribution--site-邀请码分发站-8B5CF6?style=for-the-badge&logo=go&logoColor=white"></a>
-  <a href="https://github.com/0401lucky/lucky-home-page"><img src="https://img.shields.io/badge/lucky--home--page-自定义落地页-06B6D4?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/0401lucky?tab=repositories"><img src="https://img.shields.io/badge/More-查看全部仓库-EC4899?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/0401lucky/distribution-site"><img src="https://img.shields.io/badge/distribution--site-邀请码分发站_原创-8B5CF6?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="https://github.com/0401lucky/lucky-home-page"><img src="https://img.shields.io/badge/lucky--home--page-自定义落地页_原创-06B6D4?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://github.com/0401lucky/newapi-paihang"><img src="https://img.shields.io/badge/newapi--paihang-排行榜_原创-22C55E?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="https://github.com/0401lucky?tab=repositories&type=source"><img src="https://img.shields.io/badge/More-仅看原创仓库-EC4899?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 </div>
